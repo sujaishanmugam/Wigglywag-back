@@ -1,0 +1,57 @@
+.remove-btn{
+    margin-right: 0.5rem;
+}
+/* .left-icon {
+} */
+/* .body {
+  padding-top: 45px;
+} */
+.brand{
+  margin-left:8.3333% !important;
+
+}
+.appnav{
+  position: sticky;
+  top: 0;
+}
+.link {
+    color: rgb(9, 226, 38)
+        
+  }
+.link:hover {
+    color: rgb(245, 7, 245);
+  }
+
+.bookings-link{
+   margin: 5px;
+   color: #1df700;
+  }
+.bookings-link:hover {
+  color: rgb(245, 7, 245);
+ }
+.profile-link{
+  margin: 5px;
+  color: #fbff00;
+ }
+
+.profile-link:hover {
+  color: rgb(245, 7, 245);
+}
+
+.fade-enter{
+    opacity: 0.01;
+}
+
+.fade-enter-active{
+opacity: 1;
+transition: opacity 1000ms ease-in;
+}
+
+.fade-exit{
+    opacity: 1;
+}
+
+.fade-exit-active{
+    opacity: 0.01;
+    transition: opacity 1000ms ease-in;
+}
